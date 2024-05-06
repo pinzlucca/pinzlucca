@@ -1,4 +1,13 @@
-### Hi there 👋
+### Oi eu sou o Lucca Pinz 👋
+--- 
+
+- Atualmente sou estudande do terceiro semestre de ADS na FATEC e tenho estudado as seguintes tecnologias:  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-003545?style=for-the-badge&logo=JavaScript)
+![C](https://img.shields.io/badge/C-003545?style=for-the-badge&logo=C)
+![CSS](https://img.shields.io/badge/css3-003545?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/html5-003545?style=for-the-badge&logo=html5)
+![REACT](https://img.shields.io/badge/react-003545?style=for-the-badge&logo=react)
 
 <!--
 **pinzlucca/pinzlucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
