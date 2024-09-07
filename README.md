@@ -1,7 +1,7 @@
 ### Oi eu sou o Lucca Pinz 👋
 --- 
 
-- Atualmente sou estudande do terceiro semestre de ADS na FATEC e tenho estudado as seguintes tecnologias:  
+- Atualmente sou estudante do terceiro semestre de ADS na FATEC e tenho estudado as seguintes tecnologias:  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-003545?style=for-the-badge&logo=JavaScript)
 ![C](https://img.shields.io/badge/C-003545?style=for-the-badge&logo=C)
